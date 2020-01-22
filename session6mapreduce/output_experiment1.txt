@@ -1,0 +1,17 @@
+ExtractData.py --index news --minfreq 0.7 --maxfreq 1.0 --numwords 200
+===== MRK MEANS ===== 
+Iteration 1 ...
+Time= 4.444507 seconds
+Iteration 2 ...
+Time= 3.355155 seconds
+Iteration 3 ...
+Time= 3.691334 seconds
+Iteration 4 ...
+Time= 3.571934 seconds
+Iteration 5 ...
+Time= 3.566580 seconds
+===== PROCESS RESULTS =====
+CLASS2
+[(0.9307850422958337, 'we'), (0.6687880464858882, 'from')]
+CLASS0
+[(0.929549130211826, 'we'), (0.6600923040511223, 'from')]

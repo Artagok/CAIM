@@ -1,0 +1,20 @@
+CLASS0:compat+1.0 conjectur+1.0 de+1.0 dual+1.0 vanish+1.0 
+CLASS1:five+1.0 insid+1.0 outer+1.0 super+1.0 supernova+1.0 ultra+1.0 
+CLASS2:deal+1.0 inde+1.0 methodolog+1.0 spheric+1.0 synthet+1.0 track+1.0 
+CLASS3:attribut+1.0 methodolog+1.0 
+CLASS4:de+1.0 fail+1.0 instrument+1.0 monitor+1.0 record+1.0 rough+1.0 
+CLASS5:built+1.0 fine+1.0 grain+1.0 isol+1.0 modern+1.0 monitor+1.0 record+1.0 scalabl+1.0 secur+1.0 stream+1.0 
+CLASS6:expand+1.0 kinemat+1.0 loop+1.0 section+1.0 top+1.0 
+CLASS7:answer+1.0 de+1.0 languag+1.0 later+1.0 littl+1.0 
+CLASS8:itself+1.0 leq+1.0 merger+1.0 neutron+1.0 sky+1.0 true+1.0 
+CLASS9:agre+1.0 de+1.0 flat+1.0 longer+1.0 tend+1.0 trajectori+1.0 
+CLASS10:carlo+1.0 chain+1.0 five+1.0 flexibl+1.0 mont+1.0 true+1.0 
+CLASS11:earth+1.0 giant+1.0 heavi+1.0 now+1.0 super+1.0 surround+1.0 timescal+1.0 
+CLASS12:languag+1.0 translat+1.0 
+CLASS13:align+1.0 greater+1.0 morpholog+1.0 suppress+1.0 
+CLASS14:built+1.0 face+1.0 frac+1.0 geq+1.0 infti+1.0 isol+1.0 vanish+1.0 
+CLASS15:color+1.0 red+1.0 slight+1.0 
+CLASS16:collaps+1.0 de+1.0 insid+1.0 spheric+1.0 
+CLASS17:adversari+1.0 alreadi+1.0 attempt+1.0 attribut+1.0 baselin+1.0 label+1.0 leverag+1.0 loop+1.0 treat+1.0 unifi+1.0 
+CLASS18:agre+1.0 feasibl+1.0 late+1.0 littl+1.0 translat+1.0 tree+1.0 true+1.0 
+CLASS19:axi+1.0 compos+1.0 entangl+1.0 grain+1.0 thin+1.0 translat+1.0 
